@@ -8,7 +8,7 @@ host = "localhost"
 port = 5000
 cln = socket.socket()
 cln.connect((host, port))
-print("connected"))
+print("connected")
 
 
 
